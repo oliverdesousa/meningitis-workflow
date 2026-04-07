@@ -32,7 +32,7 @@ Samples:
 - Cerebrospinal fluid (CSF)
 - Cultured bacterial isolate (preferred)
 
-Minimum Metadata:
+Minimum Metadata *(just an example)*:
 
 - Sample ID
 - Collection date
@@ -55,7 +55,7 @@ Culture → DNA extraction → Illumina sequencing → FASTQ reads
 
 Quality Targets:
 - Coverage: 30x–50x
-- Quality: ≥80% bases Q30
+- Quality: ≥80% bases Q30 (*phred score*)
 
 Alternative (if pathogen unknown):
 
@@ -162,6 +162,8 @@ Output:
 - % identity / coverage
 
 ---
+
+*Steps 6-8: very brief, was a little confused with the information from the document*
 
 🔗 **Step 6: Comparative Analysis (Outbreak Core)**
 - SNP comparison or cgMLST
