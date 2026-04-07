@@ -22,7 +22,7 @@ End-to-end workflow for analysing bacterial meningitis (MG) genomic data for:
 Patient → Sample + Metadata → Sequencing → Bioinformatics → Public Health Insight
 ```
 
-![My Image](wf2.png)
+![My Image](images/wf2.png)
 
 ---
 
