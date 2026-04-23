@@ -14,7 +14,11 @@ It follows a **modular design**:
 - ✅ Pathogen-specific typing modules  
 - ✅ Public health use-case modules  
 
-This allows users to **run only what they need**, depending on their goal.
+
+---
+
+![My Image](images/wf3.png)
+
 
 ## 🧠 What Can This Pipeline Do?
 
